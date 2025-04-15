@@ -22,7 +22,7 @@ https://doi.org/10.1287/ijoc.2024.0655.cd
 Below is the BibTex for citing this snapshot of the repository.
 
 ```
-@misc{CacheTest,
+@misc{ge2025confidence,
   author =        {Shoumeng Ge and Ying Chen},
   publisher =     {INFORMS Journal on Computing},
   title =         {{Confidence-Aware Multimodal Learning for Trustworthy FakeNews Detection}},
